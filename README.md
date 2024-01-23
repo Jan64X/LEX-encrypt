@@ -15,3 +15,5 @@ In releases there should be binaries for both Windows (virgin OS) and Linux (bas
 
 * If you want to build this program yourself instead of using the prebuilt binaries then you can run this command:
 * pyinstaller --onefile --icon=icon.ico lex.py
+
+# I also uploaded an example test.txt and test.txt.LEX file, try to break the encryption if you're smart enough!
