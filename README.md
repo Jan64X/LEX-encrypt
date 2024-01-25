@@ -5,8 +5,8 @@ You can use this if you want, just make sure to remember the passwd because ther
 Made this open-source because everything should be open-source.
 
 # USAGE
-* lex encrypt <filename> <!-- this is to encrypt
-* lex decrypt <filename including the .lex that encrypt added!> <!-- this is to decrypt
+* lex encrypt [filename] <!-- this is to encrypt
+* lex decrypt [filename including the .lex that encrypt added!] <!-- this is to decrypt
 
 # Building and how to use and stuff
 In releases there should be binaries for both Windows (virgin OS) and Linux (based OS)
